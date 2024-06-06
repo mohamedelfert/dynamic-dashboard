@@ -1,0 +1,11 @@
+{
+    "name": "DynamicDashboard",
+    "alias": "dynamicdashboard",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\DynamicDashboard\\App\\Providers\\DynamicDashboardServiceProvider"
+    ],
+    "files": []
+}
